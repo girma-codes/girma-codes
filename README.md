@@ -45,4 +45,4 @@
 📬 Connect with me
 
      📧 Email: girmamengistu@gmail.com
-     🔗 Portfolio: [የእርስዎን ፖርትፎሊዮ ሊንክ እዚህ ያስገቡ]
+     🔗 Portfolio:https://portfolio-iota-navy-9m2i0bhn9u.vercel.app/
